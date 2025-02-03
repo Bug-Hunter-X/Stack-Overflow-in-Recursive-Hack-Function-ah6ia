@@ -1,0 +1,1 @@
+This repository contains a Hack program that demonstrates a stack overflow error. The program includes a recursive function that does not handle large input values properly, leading to a stack overflow. The solution demonstrates a simple way to avoid this issue by adding a check for the input value and returning an error message when appropriate.
